@@ -1,0 +1,12 @@
+{% assign all_projects = site.projects | sort: "order" %}
+{% assign next_index = 0 %}
+{% for p in all_projects %}{% if p.url == page.url %}{% assign next_index = forloop.index %}{% endif %}{% endfor %}
+{% if next_index >= all_projects.size %}{% assign next_index = 0 %}{% endif %}
+{% assign next_project = all_projects[next_index] %}
+<nav class="next-project" aria-label="Next project">
+  <p>Next project</p>
+  <a href="{{ next_project.url | relative_url }}">
+    <span class="next-project__title">{{ next_project.title }}</span>
+    <span class="next-project__theme">{{ next_project.theme }}</span>
+  </a>
+</nav>

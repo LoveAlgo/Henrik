@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{% assign projects = site.projects | sort: "order" %}
+<article class="about wrap">
+  <header class="about__head">
+    <h1>{{ page.title }}</h1>
+    <p class="lead">{{ page.lead }}</p>
+  </header>
+
+  <div class="about__grid">
+    <figure class="about__portrait">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}" width="1100" height="1640">
+    </figure>
+    <div class="prose">{{ content }}</div>
+  </div>
+
+  {% if page.facts %}
+  <section class="about__facts">
+    <h2>In brief</h2>
+    <dl>
+      {% for f in page.facts %}<div><dt>{{ f.label }}</dt><dd>{{ f.value }}</dd></div>
+      {% endfor %}
+    </dl>
+  </section>
+  {% endif %}
+
+  {% if page.conviction %}<p class="conviction">{{ page.conviction }}</p>{% endif %}
+
+  <section class="about__projects">
+    <h2>My projects</h2>
+    <ul>
+      {% for p in projects %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a><span>{{ p.theme }}</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="project__contact">
+    <h2>Get in touch</h2>
+    <p>The quickest way to reach me is by email. I reply in English, French, German or Swedish.</p>
+    {% include contact-cta.html %}
+  </section>
+</article>

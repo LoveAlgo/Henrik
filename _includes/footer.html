@@ -1,0 +1,26 @@
+{% assign contact = site.data.contact %}
+{% assign footer_projects = site.projects | sort: "order" %}
+<footer class="site-footer" id="contact">
+  <div class="wrap site-footer__inner">
+    <div class="site-footer__intro">
+      <p class="site-footer__name">{% include mark.html %}<span>Henrik Hillerström</span></p>
+      <p>Writer, researcher and entrepreneur. {{ contact.location }}. I work in {{ contact.languages }}.</p>
+    </div>
+    <div>
+      <h2>Contact</h2>
+      <ul>
+        <li><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></li>
+        <li><a href="{{ contact.whatsapp }}">WhatsApp {{ contact.phone }}</a></li>
+        <li><a href="{{ contact.linkedin }}">LinkedIn</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>Projects</h2>
+      <ul>
+        {% for p in footer_projects %}<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="wrap"><p class="site-footer__legal">© {{ site.time | date: "%Y" }} Henrik Hillerström</p></div>
+</footer>

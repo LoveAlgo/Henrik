@@ -1,0 +1,52 @@
+---
+layout: default
+---
+{% assign projects = site.projects | sort: "order" %}
+<section class="hero wrap">
+  <div class="hero__text">
+    <h1>{{ page.heading }}</h1>
+    <p class="lead">{{ page.lead }}</p>
+    <div class="prose">{{ page.intro | markdownify }}</div>
+    <div class="actions">
+      <a class="btn btn--rosa" href="#projects">See my projects</a>
+      <a class="text-link" href="{{ '/about/' | relative_url }}">Read more about me</a>
+    </div>
+  </div>
+  <figure class="hero__portrait">
+    <img src="{{ page.portrait | relative_url }}" alt="{{ page.portrait_alt }}" width="1100" height="1640">
+  </figure>
+</section>
+
+<section class="projects wrap" id="projects">
+  <div class="section-head">
+    <h2>{{ page.projects_heading }}</h2>
+    <div class="prose">{{ page.projects_intro | markdownify }}</div>
+  </div>
+  <ul class="entries">
+    {% for p in projects %}
+    <li class="entry">
+      <a class="entry__image" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ p.image | relative_url }}" alt="" loading="lazy">
+      </a>
+      <div class="entry__body">
+        <p class="theme">{{ p.theme }}</p>
+        <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+        <p>{{ p.summary }}</p>
+        <dl class="facts">
+          <div><dt>Stage</dt><dd>{{ p.stage }}</dd></div>
+          <div><dt>Looking for</dt><dd><ul>{% for item in p.looking_for %}<li>{{ item }}</li>{% endfor %}</ul></dd></div>
+        </dl>
+        <a class="text-link" href="{{ p.url | relative_url }}">Read about {{ p.title }}</a>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="together">
+  <div class="wrap together__inner">
+    <h2>{{ page.together_heading }}</h2>
+    <div class="prose">{{ page.together_text | markdownify }}</div>
+    {% include contact-cta.html %}
+  </div>
+</section>

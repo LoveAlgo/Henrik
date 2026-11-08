@@ -1,0 +1,47 @@
+# Site settings
+title: Henrik Hillerström
+description: >-
+  Writer, researcher and entrepreneur. An overview of Henrik Hillerström's projects
+  in beauty, compatibility, storytelling, urban planning and holistic health.
+url: "https://www.henrikhillerstrom.com"
+baseurl: ""
+lang: en
+author: Henrik Hillerström
+logo: /assets/images/og-image.jpg
+
+# Default image used when a page is shared on social media
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-image.jpg
+  - scope:
+      path: "index.md"
+    values:
+      layout: home
+  - scope:
+      path: "about.md"
+    values:
+      layout: about
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+
+permalink: pretty
+
+collections:
+  projects:
+    output: true
+    permalink: /:name/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - .pages.yml
