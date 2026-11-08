@@ -1,20 +1,23 @@
 ---
 title: Geneva 2061
-order: 5
+order: 2
 theme: Urban planning
-summary: A walk through Geneva in 2061, imagined in Grooters Book 1, that asks at every stop how the real city could get there from today.
+summary: A walk through Geneva in 2061, imagined in Grooters Book 1, that asks
+  at every stop how the real city could get there from today.
 stage: Live, 3 of 25 themes written
 progress:
   - Website live in English and French
   - 3 of 25 themes written
-  - Content from my unpublished manuscript Rethink Everything (2023) being adapted
+  - Content from my unpublished manuscript Rethink Everything (2023) being
+    adapted
 looking_for:
   - Funding
   - Time to write the remaining 22 themes
 website: https://geneve2061.ch/en/
 website_label: geneve2061.ch
 image: /assets/images/geneve2061.jpg
-image_alt: The Geneva 2061 homepage, headed “Post Tenebras Lux”, listing the first stops of the 2061 walk with theme tags
+image_alt: The Geneva 2061 homepage, headed “Post Tenebras Lux”, listing the
+  first stops of the 2061 walk with theme tags
 image_caption: The 2061 walk on geneve2061.ch
 ---
 *Post tenebras lux*: after darkness, light. Geneva’s motto is the starting point for a project about the city’s future.
