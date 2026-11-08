@@ -11,7 +11,7 @@ layout: default
     {% if page.website %}<div class="actions"><a class="btn btn--green" href="{{ page.website }}">Visit {{ page.website_label }}</a></div>{% endif %}
   </header>
   {% if page.image %}
-  <figure class="project__image">
+  <figure class="project__image{% if page.image_full %} project__image--full{% endif %}">
     <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}">
     {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
   </figure>

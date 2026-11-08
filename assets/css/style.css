@@ -144,6 +144,7 @@ a:hover { color: var(--rosa); }
 .project__head .actions { margin-top: 1.25rem; }
 .project__image { margin: 0 0 clamp(2rem, 5vw, 3.5rem); }
 .project__image img { width: 100%; max-height: 520px; object-fit: cover; object-position: top; border-radius: var(--radius-lg); border: 1px solid var(--rule); }
+.project__image--full img { max-height: none; }
 .project__image figcaption { font-style: italic; font-size: 1rem; margin-top: 0.6rem; text-align: center; hyphens: manual; }
 .project__layout {
   display: grid;
