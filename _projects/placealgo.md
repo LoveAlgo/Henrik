@@ -1,8 +1,9 @@
 ---
 title: Placealgo
-order: 3
+order: 4
 theme: Place compatibility
-summary: Helps people evaluate the places they’re considering moving to, based on their personal preferences and their name.
+summary: Helps people evaluate the places they’re considering moving to, based
+  on their personal preferences and their name.
 stage: Working first version
 progress:
   - Website live at placealgo.com
@@ -15,7 +16,8 @@ looking_for:
 website: https://www.placealgo.com
 website_label: placealgo.com
 image: /assets/images/placealgo.jpg
-image_alt: The Placealgo homepage, with a photo of a brick house behind a bank of flowering azaleas
+image_alt: The Placealgo homepage, with a photo of a brick house behind a bank
+  of flowering azaleas
 image_caption: The Placealgo homepage
 ---
 Where we live shapes our health, our work, our relationships and our daily mood. Yet most people choose a place to live from a short list of practical criteria. Placealgo helps people evaluate the places they’re considering moving to. It combines a questionnaire on personal preferences with an analysis of the compatibility between a person’s name and the names of places.
