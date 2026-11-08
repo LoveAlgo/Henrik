@@ -15,7 +15,8 @@ looking_for:
 website: https://www.compalgo.com
 website_label: compalgo.com
 image: /assets/images/compalgo.jpg
-image_alt: The Compalgo homepage, a large pink heart with fields for Individual 1 and Individual 2 and a button to check compatibility
+image_alt: The Compalgo homepage, a large pink heart with fields for Individual
+  1 and Individual 2 and a button to check compatibility
 image_caption: The Compalgo homepage
 ---
 Compalgo answers a simple question: how well do two people fit together? You enter two individuals, and the algorithm returns an assessment of their romantic compatibility.
