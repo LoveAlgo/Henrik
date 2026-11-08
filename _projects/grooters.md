@@ -1,8 +1,9 @@
 ---
 title: Grooters
-order: 4
+order: 1
 theme: Narrative, dreams and future societies
-summary: A science-fiction saga for grown-ups with unfinished dreams. Six friends, eighteen Dream Worlds, and a film adaptation made entirely with AI.
+summary: A science-fiction saga for grown-ups with unfinished dreams. Six
+  friends, eighteen Dream Worlds, and a film adaptation made entirely with AI.
 stage: Two books published, film in development
 progress:
   - Book 1 published in English and French
@@ -18,7 +19,9 @@ looking_for:
 website: https://thegrooters.com
 website_label: thegrooters.com
 image: /assets/images/grooters.jpg
-image_alt: The six Grooters in evening wear in a ballroom under chandeliers, with the title Grooters and the line “Six friends. Eighteen Dream Worlds. The life still waiting for you.”
+image_alt: The six Grooters in evening wear in a ballroom under chandeliers,
+  with the title Grooters and the line “Six friends. Eighteen Dream Worlds. The
+  life still waiting for you.”
 image_caption: The six Grooters, from thegrooters.com
 ---
 Grooters is a science-fiction saga for grown-ups with unfinished dreams. It follows six friends through eighteen Dream Worlds, and asks what the life still waiting for each of us could look like.

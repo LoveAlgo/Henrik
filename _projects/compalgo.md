@@ -1,6 +1,6 @@
 ---
 title: Compalgo
-order: 2
+order: 3
 theme: Romantic compatibility
 summary: An algorithm that estimates how compatible two people are as romantic partners.
 stage: Working first version
