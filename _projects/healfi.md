@@ -18,6 +18,7 @@ image: /assets/images/healfi.jpg
 image_alt: The Healfi framework, a central circle surrounded by twelve coloured
   shapes, each labelled with an area of life
 image_caption: The Healfi framework, with the person at the centre
+image_full: true
 ---
 Healfi looks at health as a whole life rather than the absence of illness. Its framework puts the person at the centre, surrounded by twelve areas that shape wellbeing: nutrition, exercise, mindset, time, fun, environment, feng shui, work, finances, helping others, other people, and a life partner.
 
