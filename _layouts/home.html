@@ -3,6 +3,9 @@ layout: default
 ---
 {% assign projects = site.projects | sort: "order" %}
 <section class="hero wrap">
+  <figure class="hero__portrait">
+    <img src="{{ page.portrait | relative_url }}" alt="{{ page.portrait_alt }}" width="1100" height="1640">
+  </figure>
   <div class="hero__text">
     <h1>{{ page.heading }}</h1>
     <p class="lead">{{ page.lead }}</p>
@@ -12,9 +15,6 @@ layout: default
       <a class="text-link" href="{{ '/about/' | relative_url }}">Read more about me</a>
     </div>
   </div>
-  <figure class="hero__portrait">
-    <img src="{{ page.portrait | relative_url }}" alt="{{ page.portrait_alt }}" width="1100" height="1640">
-  </figure>
 </section>
 
 <section class="projects wrap" id="projects">

@@ -3,13 +3,20 @@ layout: default
 ---
 <article class="project wrap">
   <a class="back-link" href="{{ '/#projects' | relative_url }}">All projects</a>
-  <div class="project__top">
+  <div class="project__layout">
   <header class="project__head">
     <p class="theme">{{ page.theme }}</p>
     <h1>{{ page.title }}</h1>
     <p class="lead">{{ page.summary }}</p>
     {% if page.website %}<div class="actions"><a class="btn btn--green" href="{{ page.website }}">Visit {{ page.website_label }}</a></div>{% endif %}
   </header>
+  {% if page.image %}
+  <figure class="project__image">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}">
+    {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+  </figure>
+  {% endif %}
+  <div class="prose project__body">{{ content }}</div>
   <aside class="glance" aria-label="{{ page.title }} at a glance">
     <h2>At a glance</h2>
     <dl>
@@ -31,14 +38,6 @@ layout: default
   </aside>
   </div>
 
-  {% if page.image %}
-  <figure class="project__image">
-    <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}">
-    {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
-  </figure>
-  {% endif %}
-
-  <div class="prose project__body">{{ content }}</div>
 
   <section class="project__contact">
     <h2>Interested in {{ page.title }}?</h2>
