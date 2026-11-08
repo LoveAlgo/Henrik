@@ -17,7 +17,8 @@ projects_heading: My projects
 projects_intro: Six projects, each at a different stage, and each feeding the
   others. The Grooters saga imagines possible futures; Geneva 2061 asks how a
   real city could get there. Compalgo and Placealgo help people choose the right
-  partner and the right place. Learned Beauty and Healfi work with the person.
+  partner and the right place. Learned Beauty and Healfi work holistically with
+  the person.
 together_heading: Working together
 together_text: >-
   I’m looking for partners and investors who want to help some of these projects
