@@ -2,7 +2,8 @@
 title: Healfi
 order: 6
 theme: Holistic health
-summary: A framework that treats health as a whole life, from nutrition and exercise to work, finances and relationships.
+summary: A framework that treats health as a whole life, from nutrition and
+  exercise to work, finances and relationships.
 stage: Live, rebuild planned
 progress:
   - Original website online at healfi.me, first built about 20 years ago
@@ -14,7 +15,8 @@ looking_for:
 website: https://healfi.me
 website_label: healfi.me
 image: /assets/images/healfi.jpg
-image_alt: The Healfi framework, a central circle surrounded by twelve coloured shapes, each labelled with an area of life
+image_alt: The Healfi framework, a central circle surrounded by twelve coloured
+  shapes, each labelled with an area of life
 image_caption: The Healfi framework, with the person at the centre
 ---
 Healfi looks at health as a whole life rather than the absence of illness. Its framework puts the person at the centre, surrounded by twelve areas that shape wellbeing: nutrition, exercise, mindset, time, fun, environment, feng shui, work, finances, helping others, other people, and a life partner.
