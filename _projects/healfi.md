@@ -4,7 +4,7 @@ order: 6
 theme: Holistic health
 summary: A framework that treats health as a whole life, from nutrition and
   exercise to work, finances and relationships.
-stage: Live, rebuild planned
+stage: Live, update planned
 progress:
   - Original website online at healfi.me, first built about 20 years ago
   - Website update needed
