@@ -4,14 +4,14 @@ order: 6
 theme: Holistic health
 summary: A framework that treats health as a whole life, from nutrition and
   exercise to work, finances and relationships.
-stage: Live, rebuild planned
+stage: Live, update planned
 progress:
   - Original website online at healfi.me, first built about 20 years ago
   - Website update needed
   - Card deck and e-course planned
 looking_for:
   - Funding
-  - Time to rebuild the site and create the card deck and e-course
+  - Time to update the site and create the card deck and e-course
 website: https://healfi.me
 website_label: healfi.me
 image: /assets/images/healfi.jpg
@@ -36,4 +36,4 @@ Several of Healfi’s areas link directly to my other projects. The life partner
 
 ## What would help
 
-Funding, which buys the time to rebuild the website and create the card deck and the e-course.
+Funding, which buys the time to update the website and create the card deck and the e-course.
