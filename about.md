@@ -35,7 +35,7 @@ I hold an MBA from the University of St. Gallen, and I have studied urban and re
 
 I am a researcher by nature. I have studied thousands of images, read hundreds of books, and explored psychology, aesthetics, self-development and teaching. I rarely stay inside one discipline. A chapter of a novel becomes an urban planning project. Research for a mentorship shapes a character. Years of moving between countries become an algorithm for choosing where to live.
 
-In 2023 I wrote *Rethink Everything*, a manuscript that has not been published. Much of its content is now being adapted for Geneva 2061.
+In 2023 I wrote *Rethink Everything*, a manuscript that has not been published, but much of its content is now being adapted for Geneva 2061.
 
 ## What I’m looking for
 
