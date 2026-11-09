@@ -19,10 +19,11 @@ image: /assets/images/geneve2061.jpg
 image_alt: The Geneva 2061 homepage, headed “Post Tenebras Lux”, listing the
   first stops of the 2061 walk with theme tags
 image_caption: The 2061 walk on geneve2061.ch
+image_full: false
 ---
 *Post tenebras lux*: after darkness, light. Geneva’s motto is the starting point for a project about the city’s future.
 
-In the first Grooters book, Verity wakes up in a Dream World: the Geneva of 2061. The city is quiet, green and beautiful, and its people are radiant. Geneva 2061 follows her walk through the city, from the Plaine de Plainpalais market to the Parc des Bastions and beyond. At every stop it asks the same practical question: how do we get there from where we stand today?
+In the first Grooters book, Verity wakes up in a Dream World: the Geneva of 2061. The city is quiet, green and beautiful, and its people are radiant. Geneva 2061 follows her walk through the city, from the Plaine de Plainpalais market to the Parc des Bastions and beyond. At every stop it asks the same practical question: how do we get there from where Geneva stands today?
 
 ## How it’s organised
 
