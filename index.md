@@ -1,7 +1,7 @@
 ---
 title: Henrik Hillerström
 heading: Henrik Hillerström
-lead: Writer, researcher and entrepreneur, working on beauty, compatibility,
+lead: Writer, researcher and entrepreneur, exploring beauty, compatibility,
   storytelling and urbanism of the future.
 intro: >-
   I was born in Australia to Swedish parents, grew up in Geneva, and now live in
