@@ -36,4 +36,4 @@ Several of Healfi’s areas link directly to my other projects. The life partner
 
 ## What would help
 
-Funding, which buys the time to rebuild the website and create the card deck and the e-course.
+Funding, which buys the time to update the website and create the card deck and the e-course.
