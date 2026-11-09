@@ -236,3 +236,6 @@ a:hover { color: var(--rosa); }
   .site-nav a { font-size: 1.1rem; }
   .site-nav__contact { padding: 0.2rem 0.8rem; }
 }
+
+/* Never hyphenate the introduction lines */
+.lead { hyphens: manual; -webkit-hyphens: manual; }
