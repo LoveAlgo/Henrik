@@ -29,7 +29,7 @@ I look for beauty in people, in relationships, in the places we live and in the 
 
 I was born in Australia to Swedish parents and grew up in Geneva, surrounded by European standards of taste and refinement. One of my first summer jobs, at sixteen, was at Harry Winston: an early lesson in craftsmanship, elegance and restraint. Since then I have lived in nine countries and dozens of homes. Today I live in the south of France.
 
-I hold an MBA from the University of St. Gallen, and I have studied urban and regional planning, architecture and adult education. I am an accredited adult educator. Professionally, I have worked in finance, entrepreneurship and research, and in designing compatibility systems for relationships and for place-based living.
+I hold an MBA from the University of St. Gallen, and I have studied urban and regional planning, architecture, sustainable living, and adult education. Professionally, I have worked in finance, entrepreneurship and research, and in designing compatibility systems for relationships and for place-based living.
 
 ## How I work
 
