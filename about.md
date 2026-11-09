@@ -1,22 +1,27 @@
 ---
 title: About me
-lead: I have always been drawn to one question, approached from many angles. What makes a life beautiful?
+lead: I have always been drawn to one question, approached from many angles.
+  What makes a life beautiful?
 image: /assets/images/henrik-library.jpg
-image_alt: Henrik Hillerström reading an old book in a leather armchair in a wood-panelled library
-conviction: What unifies my work is a simple conviction. Beauty makes life worth living.
+image_alt: Henrik Hillerström reading an old book in a leather armchair in a
+  wood-panelled library
 facts:
   - label: Born
-    value: Australia, to Swedish parents
+    value: Sydney, Australia, to Swedish parents
   - label: Raised
     value: Geneva, Switzerland
   - label: Lives
     value: South of France, after nine countries and dozens of homes
   - label: Education
-    value: MBA, University of St. Gallen; studies in urban and regional planning, architecture and adult education
+    value: MBA, University of St. Gallen; studies in urban and regional planning,
+      architecture and adult education
   - label: Experience
-    value: Finance, entrepreneurship, research, and the design of compatibility systems for relationships and places
+    value: Finance, entrepreneurship, research, and the design of compatibility
+      systems for relationships and places
   - label: Languages
-    value: Swedish, French, English and German, with a good understanding of several more
+    value: Swedish, French, English and German, with a good understanding of several
+      more
+conviction: What unifies my work is a simple conviction. Beauty makes life worth living.
 ---
 I look for beauty in people, in relationships, in the places we live and in the stories that shape what we dream of. Most of my work grows out of that interest, and each project looks at it from a different side.
 
