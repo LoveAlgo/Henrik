@@ -11,7 +11,7 @@ progress:
   - Card deck and e-course planned
 looking_for:
   - Funding
-  - Time to rebuild the site and create the card deck and e-course
+  - Time to update the site and create the card deck and e-course
 website: https://healfi.me
 website_label: healfi.me
 image: /assets/images/healfi.jpg
