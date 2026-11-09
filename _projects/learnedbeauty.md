@@ -19,6 +19,7 @@ image: /assets/images/learnedbeauty.jpg
 image_alt: The Learned Beauty homepage, with the headline “Feel more at ease in
   your femininity” beside a portrait of Modella in a gold sequinned dress
 image_caption: The Learned Beauty homepage, featuring Modella, one of the six Grooters
+image_full: false
 ---
 Learned Beauty rests on one idea: feminine beauty is a skill that can be learned, and it comes alive in relationship. Most women receive guidance about femininity from other women, from social media and from trends. Very few receive clear, benevolent and demanding feedback from a man. Learned Beauty offers exactly that.
 
@@ -31,5 +32,3 @@ Women apply by answering three reflection questions. The first three sessions ar
 ## Why it matters to the other projects
 
 Learned Beauty is both a business and a living research field. The private work informs the writing, and the writing informs the work. The women of the Grooters saga appear throughout the site, and the holistic approach shares its roots with Healfi.
-
-Client work can bring in income, but it competes for time with writing Grooters, research, and building the algorithms, card games and websites. That trade-off is one reason outside funding matters for the rest of the portfolio.
