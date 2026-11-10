@@ -25,7 +25,7 @@ together_text: >-
   I’m looking for partners and investors who want to help some of these projects
   reach their next stage: research and technical partners for the compatibility
   algorithms, film financing and a publishing partner for Grooters, and funding
-  that gives Geneva 2061, Healfi and Hectare 1 the time they need.
+  that gives Geneva 2061, Healfi, and Hectare 1 the time they need.
 
 
   If one of these speaks to you, I’d be glad to hear from you.
