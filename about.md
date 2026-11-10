@@ -39,4 +39,4 @@ In 2023 I wrote *Rethink Everything*, a manuscript that has not been published, 
 
 ## What I’m looking for
 
-The projects are well under way, but they have reached the point where my own time is the main limit. I’m looking for people who want to help take them further: research and technical partners for the compatibility algorithms, film financing and a publishing partner for Grooters, and funding for Geneva 2061 and Healfi.
+The projects are well under way, but they have reached the point where my own time is the main limit. I’m looking for people who want to help take them further: research and technical partners for the compatibility algorithms, film financing and a publishing partner for Grooters, and funding for Geneva 2061, Healfi, and Hectare 1.
